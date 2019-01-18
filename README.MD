@@ -7,3 +7,7 @@ My version of cs231n assignment.
 
 其它作业待续中... 
 
+
+#### 参考资料
+
+- [cs231n 2017 随堂笔记汇总](https://huangzhanpeng.github.io/2017/12/15/cs231n-notes/)
