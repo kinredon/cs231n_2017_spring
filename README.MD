@@ -11,3 +11,4 @@ My version of cs231n assignment.
 #### 参考资料
 
 - [cs231n 2017 随堂笔记汇总](https://huangzhanpeng.github.io/2017/12/15/cs231n-notes/)
+- [斯坦福CS231n课程整理](https://www.jianshu.com/p/182baeb82c71)
